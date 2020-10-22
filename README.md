@@ -19,6 +19,9 @@ The data was acquired from the premier league lacrosse website and extracted as 
 ### Points Leaders
 
 ![2019 Points leaders](img/PointsTopTen.svg)
-Total Goals by team:
+
+<br>
+
+### Total Goals by team:
 
 ![Goals per Team](img/Goals-per-team.svg)
