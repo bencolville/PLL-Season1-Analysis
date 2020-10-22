@@ -16,7 +16,9 @@ These two problems are to be addressed here.
 The data was acquired from the premier league lacrosse website and extracted as raw HTML. The Pandas library was then used to extract the relevant tables direct from HTML. Extensive data cleaning was then performed to ready the data for analysis as the plain text available was not amenable to extracting variables.
 
 ## 3. Current Results and Findings
+### Points Leaders
 
+![2019 Points leaders](img/PointsTopTen.svg)
 Total Goals by team:
 
 ![Goals per Team](img/Goals-per-team.svg)
