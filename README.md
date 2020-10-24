@@ -57,3 +57,9 @@ The defense of the Whipsnakes appears to be the differentiating factor the conce
 
 ![Goals Conceeded per team](img/conceeded-per-team.svg)
 
+#### Defensive Insights
+Caused turnovers (taking the ball away from the other team) is one of the most common ways to judge a defensive players performance.
+Groundballs are also key metric for a team - normally the team with the most ground balls wins the game as more ground balls means more possesion and more chance to score.
+
+![Turovers per Team](img/Caused-Turnovers-per-game.svg)
+
