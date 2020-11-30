@@ -63,3 +63,8 @@ Groundballs are also key metric for a team - normally the team with the most gro
 
 ![Turovers per Team](img/Caused-Turnovers-per-game.svg)
 
+### Initial Attempts at Clustering
+
+Attempting to cluster Players using the K-means algorithm. 
+
+![K-means clustering](img/clustering-attmept1.svg)
